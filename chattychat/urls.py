@@ -8,3 +8,9 @@ urlpatterns = [
     re_path(r'^chat/',include('apps.chat_app.urls')),
     re_path(r'^login/',include('apps.user_app.urls')),
 ]
+
+
+
+
+
+
